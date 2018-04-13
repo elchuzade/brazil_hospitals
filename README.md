@@ -1,7 +1,7 @@
 # brazil_hospitals
 
 #### The dataset is about patients of hospitals in some of Brazil neighbourhoods. It comes from Kaggle.
-### The goal is to predict whether the patient will Showup to the scheduled appointment or not
+#### The goal is to predict whether the patient will Showup to the scheduled appointment or not
 
 #### The labels are as follows
 ###### PatientId
